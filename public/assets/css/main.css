@@ -269,6 +269,17 @@ a:after {
 /* ==========================================================================
    Wrap Sections
    ========================================================================== */
+.header-sign1{
+    font-family:Roman;
+    font-size:30px;
+    color:white;
+}
+.header-sign2{
+    font-family:Impact;
+    font-size:30px;
+    color:white;
+}
+
 
 #headerwrap {
 	background: url(../img/1.jpg) no-repeat center top;
