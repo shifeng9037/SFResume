@@ -271,7 +271,7 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/header_bg.jpg) no-repeat center top;
+	background: url(../img/1.jpg) no-repeat center top;
 	margin-top: -50px;
 	padding-top:120px;
 	text-align:center;
@@ -425,7 +425,7 @@ a:after {
 }
 
 .divider2 {
-	background-image: url('../img/bg/24.jpg')
+	background-image: url('../img/bg/divider2.jpg')
 }
 
 .divider3 {
@@ -643,13 +643,16 @@ a:after {
 /* ==========================================================================
    ACADEMICS
    ========================================================================== */
-.paragrapha{
+.paragraph-a {
 
     text-align:justify;
     margin:0px;
     padding:0px;
     border:0px;
     line-height:25px;
+}
+.video-a {
+
 }
 
 /* ==========================================================================
